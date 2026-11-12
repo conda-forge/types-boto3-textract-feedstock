@@ -1,5 +1,5 @@
 context:
-  version: "1.44.0"
+  version: "1.44.1"
 
 package:
   name: types-boto3-textract
@@ -7,7 +7,7 @@ package:
 
 source:
   - url: https://pypi.org/packages/source/t/types-boto3-textract/types_boto3_textract-${{ version }}.tar.gz
-    sha256: 223f00d977cb219592075b5bbe2f9e28fc80c61c6e6c4217d1b553293c4d0935
+    sha256: 33249f14ec589ecfd52c965ffd1b1b7669460fad334b4cbe497185a93fa78081
 
 build:
   number: 0
